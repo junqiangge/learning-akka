@@ -1,0 +1,6 @@
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo C:/Users/85432/AppData/Local/Temp/sbt-structure.xml; session clear-all
+publishLocal
+run
+clean
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo C:/Users/85432/AppData/Local/Temp/sbt-structure.xml; session clear-all
+all {file:/C:/GitHubProject/learning-akka/ch2/akkademy-db-client-scala/}akkademy-db-client-scala/products {file:/C:/GitHubProject/learning-akka/ch2/akkademy-db-client-scala/}akkademy-db-client-scala/test:products

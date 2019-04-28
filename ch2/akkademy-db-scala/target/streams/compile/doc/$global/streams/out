@@ -1,0 +1,12 @@
+[0m[[0m[0minfo[0m] [0m[0mMain Scala API documentation to C:\GitHubProject\learning-akka\ch2\akkademy-db-scala\target\scala-2.11\api...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.11:1.2.5:compile for Scala 2.11.2[0m
+[0m[[0m[0mdebug[0m] [0m[0mCalling Scaladoc with arguments:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-d[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\GitHubProject\learning-akka\ch2\akkademy-db-scala\target\scala-2.11\api[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Apps\Java\jdk1.8.0_171\jre\lib\resources.jar;C:\Apps\Java\jdk1.8.0_171\jre\lib\rt.jar;C:\Apps\Java\jdk1.8.0_171\jre\lib\sunrsasign.jar;C:\Apps\Java\jdk1.8.0_171\jre\lib\jsse.jar;C:\Apps\Java\jdk1.8.0_171\jre\lib\jce.jar;C:\Apps\Java\jdk1.8.0_171\jre\lib\charsets.jar;C:\Apps\Java\jdk1.8.0_171\jre\lib\jfr.jar;C:\Apps\Java\jdk1.8.0_171\jre\classes;C:\Users\85432\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.2.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\85432\.ivy2\cache\com.typesafe.akka\akka-agent_2.11\jars\akka-agent_2.11-2.3.6.jar;C:\Users\85432\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.6.jar;C:\Users\85432\.ivy2\cache\com.typesafe\config\bundles\config-1.2.1.jar;C:\Users\85432\.ivy2\cache\org.scala-stm\scala-stm_2.11\jars\scala-stm_2.11-0.7.jar;C:\Users\85432\.ivy2\cache\com.typesafe.akka\akka-remote_2.11\jars\akka-remote_2.11-2.3.6.jar;C:\Users\85432\.ivy2\cache\io.netty\netty\bundles\netty-3.8.0.Final.jar;C:\Users\85432\.ivy2\cache\com.google.protobuf\protobuf-java\bundles\protobuf-java-2.5.0.jar;C:\Users\85432\.ivy2\cache\org.uncommons.maths\uncommons-maths\jars\uncommons-maths-1.2.2a.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\GitHubProject\learning-akka\ch2\akkademy-db-scala\src\main\scala\com\akkademy\AkkademyDbSped.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\GitHubProject\learning-akka\ch2\akkademy-db-scala\src\main\scala\com\akkademy\messages\messages.scala[0m
+[0m[[0m[0minfo[0m] [0m[0mMain Scala API documentation successful.[0m

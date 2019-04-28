@@ -1,0 +1,27 @@
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed:Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set(C:\GitHubProject\learning-akka\ch2\akkademy-db-scala\src\main\scala\com\akkademy\AkkademyDbSped.scala, C:\GitHubProject\learning-akka\ch2\akkademy-db-scala\src\main\scala\com\akkademy\messages\messages.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set(C:\GitHubProject\learning-akka\ch2\akkademy-db-scala\target\scala-2.11\classes\com\akkademy\messages\KeyNotFoundException$.class, C:\GitHubProject\learning-akka\ch2\akkademy-db-scala\target\scala-2.11\classes\com\akkademy\AkkademyDb$$anonfun$receive$1.class, C:\GitHubProject\learning-akka\ch2\akkademy-db-scala\target\scala-2.11\classes\com\akkademy\AkkademyDb.class, C:\GitHubProject\learning-akka\ch2\akkademy-db-scala\target\scala-2.11\classes\com\akkademy\messages\GetRequest$.class, C:\GitHubProject\learning-akka\ch2\akkademy-db-scala\target\scala-2.11\classes\com\akkademy\messages\SetRequest$.class, C:\GitHubProject\learning-akka\ch2\akkademy-db-scala\target\scala-2.11\classes\com\akkademy\Main.class, C:\GitHubProject\learning-akka\ch2\akkademy-db-scala\target\scala-2.11\classes\com\akkademy\Main$delayedInit$body.class, C:\GitHubProject\learning-akka\ch2\akkademy-db-scala\target\scala-2.11\classes\com\akkademy\messages\GetRequest.class, C:\GitHubProject\learning-akka\ch2\akkademy-db-scala\target\scala-2.11\classes\com\akkademy\Main$.class, C:\GitHubProject\learning-akka\ch2\akkademy-db-scala\target\scala-2.11\classes\com\akkademy\messages\SetRequest.class, C:\GitHubProject\learning-akka\ch2\akkademy-db-scala\target\scala-2.11\classes\com\akkademy\messages\KeyNotFoundException.class)[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(com.akkademy.AkkademyDb, com.akkademy.Main, com.akkademy.messages.SetRequest, com.akkademy.messages.GetRequest, com.akkademy.messages.KeyNotFoundException)[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set(C:\GitHubProject\learning-akka\ch2\akkademy-db-scala\src\main\scala\com\akkademy\AkkademyDbSped.scala, C:\GitHubProject\learning-akka\ch2\akkademy-db-scala\src\main\scala\com\akkademy\messages\messages.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll sources are invalidated.[0m
+[0m[[0m[0mdebug[0m] [0m[0mRecompiling all 2 sources: invalidated sources (2) exceeded 50.0% of all sources[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 2 Scala sources to C:\GitHubProject\learning-akka\ch2\akkademy-db-scala\target\scala-2.11\classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.11:1.2.5:compile for Scala 2.11.2[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.11:1.2.5:compile for Scala 2.11.2[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 4647f61e for Scala compiler version 2.11.2[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Apps\Java\jdk1.8.0_171\jre\lib\resources.jar;C:\Apps\Java\jdk1.8.0_171\jre\lib\rt.jar;C:\Apps\Java\jdk1.8.0_171\jre\lib\sunrsasign.jar;C:\Apps\Java\jdk1.8.0_171\jre\lib\jsse.jar;C:\Apps\Java\jdk1.8.0_171\jre\lib\jce.jar;C:\Apps\Java\jdk1.8.0_171\jre\lib\charsets.jar;C:\Apps\Java\jdk1.8.0_171\jre\lib\jfr.jar;C:\Apps\Java\jdk1.8.0_171\jre\classes;C:\Users\85432\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.2.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\GitHubProject\learning-akka\ch2\akkademy-db-scala\target\scala-2.11\classes;C:\Users\85432\.ivy2\cache\com.typesafe.akka\akka-agent_2.11\jars\akka-agent_2.11-2.3.6.jar;C:\Users\85432\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.6.jar;C:\Users\85432\.ivy2\cache\com.typesafe\config\bundles\config-1.2.1.jar;C:\Users\85432\.ivy2\cache\org.scala-stm\scala-stm_2.11\jars\scala-stm_2.11-0.7.jar;C:\Users\85432\.ivy2\cache\com.typesafe.akka\akka-remote_2.11\jars\akka-remote_2.11-2.3.6.jar;C:\Users\85432\.ivy2\cache\io.netty\netty\bundles\netty-3.8.0.Final.jar;C:\Users\85432\.ivy2\cache\com.google.protobuf\protobuf-java\bundles\protobuf-java-2.5.0.jar;C:\Users\85432\.ivy2\cache\org.uncommons.maths\uncommons-maths\jars\uncommons-maths-1.2.2a.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 10.564557034 s[0m
+[0m[[0m[0minfo[0m] [0m[0mDone compiling.[0m

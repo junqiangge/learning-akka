@@ -1,0 +1,10 @@
+[0m[[0m[0minfo[0m] [0m[0m:: delivering :: com.akkademy-db#akkademy-db-scala_2.11;0.0.1-SNAPSHOT :: 0.0.1-SNAPSHOT :: integration :: Sun Apr 28 15:44:14 CST 2019[0m
+[0m[[0m[0mdebug[0m] [0m[0m	options = status=integration pubdate=Sun Apr 28 15:44:14 CST 2019 validate=true resolveDynamicRevisions=true merge=true resolveId=null pubBranch=null[0m
+[0m[[0m[0minfo[0m] [0m[0m	delivering ivy file to C:\GitHubProject\learning-akka\ch2\akkademy-db-scala\target\scala-2.11\ivy-0.0.1-SNAPSHOT.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	deliver done (30ms)[0m
+[0m[[0m[0mdebug[0m] [0m[0mlocal do not support transaction. ivy pattern does not use revision as a directory[0m
+[0m[[0m[0minfo[0m] [0m[0m	published akkademy-db-scala_2.11 to C:\Users\85432\.ivy2\local\com.akkademy-db\akkademy-db-scala_2.11\0.0.1-SNAPSHOT\poms\akkademy-db-scala_2.11.pom[0m
+[0m[[0m[0minfo[0m] [0m[0m	published akkademy-db-scala_2.11 to C:\Users\85432\.ivy2\local\com.akkademy-db\akkademy-db-scala_2.11\0.0.1-SNAPSHOT\jars\akkademy-db-scala_2.11.jar[0m
+[0m[[0m[0minfo[0m] [0m[0m	published akkademy-db-scala_2.11 to C:\Users\85432\.ivy2\local\com.akkademy-db\akkademy-db-scala_2.11\0.0.1-SNAPSHOT\srcs\akkademy-db-scala_2.11-sources.jar[0m
+[0m[[0m[0minfo[0m] [0m[0m	published akkademy-db-scala_2.11 to C:\Users\85432\.ivy2\local\com.akkademy-db\akkademy-db-scala_2.11\0.0.1-SNAPSHOT\docs\akkademy-db-scala_2.11-javadoc.jar[0m
+[0m[[0m[0minfo[0m] [0m[0m	published ivy to C:\Users\85432\.ivy2\local\com.akkademy-db\akkademy-db-scala_2.11\0.0.1-SNAPSHOT\ivys\ivy.xml[0m
